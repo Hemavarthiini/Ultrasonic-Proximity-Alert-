@@ -28,7 +28,7 @@ The ultrasonic sensor sends ultrasonic sound waves toward an object and receives
 
 The Arduino continuously checks the measured distance. If the distance is between 20 cm and 50 cm, the Arduino activates the buzzer to produce a beep sound. If the distance is outside this range, the buzzer remains OFF. This process repeats continuously.
 
-![][image1]
+![][image1](WORKING.jpg)
 
 ## **6\. Applications**
 
@@ -44,6 +44,6 @@ The Ultrasonic Distance Measurement with Buzzer Alert project successfully demon
 
 **RESULT**
 
-![][image2]
+![][image2](RESULT.jpg)
 
-[image1]: 
+
